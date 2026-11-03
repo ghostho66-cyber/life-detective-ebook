@@ -1,0 +1,19 @@
+{
+  "title": "生活小偵探｜互動學習電子書",
+  "release_date": "2026-11-03",
+  "live_url": "https://daily-life-detective-ebook-nov26.fox702971.chatgpt.site",
+  "version": 1,
+  "deployed_source_commit": "ab0a031ba98dc3ca4c05f961df643e188a99791c",
+  "runtime_sha256": {
+    "app.js": "f461d58f619d2c82308f2f52baf3552e6279f8bdf38b2045a92f6dee45f20fae",
+    "core.js": "d9b2c45d63759f45aa6bb87577d922b5dfbca6416d662e190b741cb91b4bab72",
+    "data.js": "715e1bf63d2fbb7d5eee3236b88b37c77ddb6e4f95fa73fa8895d6a0e2b33662",
+    "favicon.svg": "61304522e7bf3b53921e211da500c59298eb356e9e4ef9ec32a585bcba22d1dd",
+    "icons.js": "f9de2d46c2461b450b0a16ea0261eb00c6b95873d97befca558ccb265189a98f",
+    "index.html": "cfffeef263ef1a18c7b0a11583993c36dc7135553d7b07135ce15850635b1867",
+    "share-qr.svg": "eb9cd6babd94baca15642c02855af920aa3be33df3bce658654c273af54ff0d2",
+    "style.css": "3727d816bd576b7b898fcd7f045fe7de12b7d174cdc6bbda146aa0043f7c249d"
+  },
+  "github_repository": "https://github.com/ghostho66-cyber/life-detective-ebook",
+  "github_pages_url": "https://ghostho66-cyber.github.io/life-detective-ebook/"
+}
